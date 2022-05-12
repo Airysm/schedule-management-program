@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RY3P3i7BlLdA4Z7vAkD9IwMKZDb5JM18EDjJL5LKauWkn1IrGHO60eDBx4+ii7KRQdjsX+wTAUxWLve8WiBo4g==",
+  "dgSpecHash": "sq8JPwoWsl/T8eWNpiY5pao/HHM4VOWkLenRxH1tYfQqObz4ZGFqDleTlfk3ilVJOUMta/vF3Ryomogrzb5vyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Airysm\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\Airysm\\OneDrive\\문서\\managed-schedule\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Airysm\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Airysm\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

@@ -14,7 +14,7 @@ namespace DB
     public class DB_fuction
     {
 
-        private string Conn = "Server=localhost;Database=db_scheduler;Uid=root;Pwd=shwon8040";
+        private string Conn = "Server=airysm.mysql.database.azure.com;Database=db_scheduler;Uid=Airysm@airysm;Pwd=shwon8040!";
         public void DB_save(schedule scd)
         {
             // datetimepicker.Text와 일정 내용 textbox.Text, enum checklist를 넣어주면
@@ -86,17 +86,18 @@ namespace ConsoleApp1
             schedule scd_update;
             schedule scd;
 
-            scd.txt_date = "2022-05-03";
+            scd.txt_date = "2022-05-13";
             scd.txt_detail = "얘야 국이 짜다.";
             scd.checklist = 1;
 
-            scd_update.txt_date = "2022-05-03";
+            scd_update.txt_date = "2022-05-13";
             scd_update.txt_detail = "얘야 국이 시원하다.";
             scd_update.checklist = 1;
 
+            //db.DB_save(scd);
             db.DB_update(scd_update, scd);
             db.DB_delete(scd_update);
-            db.DB_load("2022-05-03");
+            db.DB_load("2022-05-13");
         }
     }
 }
