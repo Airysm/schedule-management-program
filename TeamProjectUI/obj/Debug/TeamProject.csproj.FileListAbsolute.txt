@@ -1,0 +1,72 @@
+C:\Users\유재준\source\repos\TeamProjectUI\obj\Debug\TeamProject.csprojAssemblyReference.cache
+C:\Users\유재준\source\repos\TeamProjectUI\obj\Debug\TeamProject.Form1.resources
+C:\Users\유재준\source\repos\TeamProjectUI\obj\Debug\TeamProjectUI.Properties.Resources.resources
+C:\Users\유재준\source\repos\TeamProjectUI\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\유재준\source\repos\TeamProjectUI\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\유재준\source\repos\TeamProjectUI\obj\Debug\TeamProjectUI.exe
+C:\Users\유재준\source\repos\TeamProjectUI\obj\Debug\TeamProjectUI.pdb
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\TeamProjectUI.exe.config
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\TeamProjectUI.exe
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\TeamProjectUI.pdb
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\Google.Protobuf.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\MetroFramework.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\MySql.Data.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\System.Buffers.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\System.Memory.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\ZstdNet.dll
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\Google.Protobuf.xml
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\MySql.Data.xml
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\System.Buffers.xml
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\System.Memory.xml
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\유재준\source\repos\TeamProjectUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\유재준\source\repos\TeamProjectUI\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\TeamProjectUI.exe.config
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\TeamProjectUI.exe
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\TeamProjectUI.pdb
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\Google.Protobuf.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\MetroFramework.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\MySql.Data.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\System.Buffers.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\System.Memory.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\ZstdNet.dll
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\Google.Protobuf.xml
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\MySql.Data.xml
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\System.Buffers.xml
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\System.Memory.xml
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\obj\Debug\TeamProject.csprojAssemblyReference.cache
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\obj\Debug\TeamProject.Form1.resources
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\obj\Debug\TeamProjectUI.Properties.Resources.resources
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\obj\Debug\TeamProjectUI.exe
+C:\Users\유재준\Desktop\학교\2022 1학기\응용소프트웨어실습\팀프로젝트\TeamProject\TeamProjectUI\obj\Debug\TeamProjectUI.pdb
