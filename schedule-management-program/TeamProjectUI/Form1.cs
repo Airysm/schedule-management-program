@@ -79,7 +79,8 @@ namespace TeamProject
                 textBoxAlignment();
 
                 // DB에 저장
-                string strDate = monthCalendar1.SelectionStart.Year.ToString() + "-" + monthCalendar1.SelectionStart.Month.ToString() + "-" + monthCalendar1.SelectionStart.Day.ToString();
+                DateTime date = monthCalendar1.SelectionStart;
+                string strDate = date.ToString("yyyy-MM-dd");
                 schedule scd = new schedule(strDate, textBox.Text,-1);
 
                 DB_fuction.DB_save(scd);
@@ -173,7 +174,8 @@ namespace TeamProject
                 }
             }
 
-            string strDate = monthCalendar1.SelectionStart.Year.ToString() + "-" + monthCalendar1.SelectionStart.Month.ToString() + "-" + monthCalendar1.SelectionStart.Day.ToString();
+            DateTime date = monthCalendar1.SelectionStart;
+            string strDate = date.ToString("yyyy-MM-dd");
             schedule scd = new schedule(strDate, groupList[deleteIndex].TextBox_일정.Text, -1);
 
             groupList.RemoveAt(deleteIndex);
@@ -191,16 +193,14 @@ namespace TeamProject
 
         private void monthCalendar1_DateSelected(object sender, DateRangeEventArgs e) // 달력 날짜 선택
         {
-            string strDate = monthCalendar1.SelectionStart.Year.ToString() + "-" + monthCalendar1.SelectionStart.Month.ToString() + "-" + monthCalendar1.SelectionStart.Day.ToString();
+            DateTime date = monthCalendar1.SelectionStart;
+            string strDate = date.ToString("yyyy-MM-dd");
 
             string[] strArray = DB_fuction.DB_load2(strDate);
 
             // 그룹박스들 지우기
-            for (int i = 0; i < groupList.Count; i++)
-            {
-                groupList.RemoveAt(0);
-            }
-
+            groupList.Clear();
+            Console.WriteLine(strDate);
             textBoxAlignment();
 
             // 해당 날짜의 그룹 박스 추가
