@@ -11,6 +11,29 @@ namespace send_mail
 {
     class Program
     {
+        public static string load_email()
+        {
+            string Conn = "Server=airysm.mysql.database.azure.com;Database=db_scheduler;Uid=Airysm@airysm;Pwd=shwon8040!";
+            string email = "";
+
+            using (MySqlConnection conn = new MySqlConnection(Conn))
+            {
+                conn.Open();
+                MySqlCommand schedule = new MySqlCommand("SELECT idemail FROM email", conn);
+                MySqlDataReader sdr = schedule.ExecuteReader();
+
+                while (sdr.Read())
+                {
+                    if ((int)sdr[1] == 1)
+                        email = (string)sdr[0];
+                }
+
+                sdr.Close();
+            }
+
+            return email;
+        }
+
         public static string[] DB_load(string txt_date) // struct *형식으로 구조체 리스트가 있으면 그걸로 반환하게 만들자
         {
             string Conn = "Server=airysm.mysql.database.azure.com;Database=db_scheduler;Uid=Airysm@airysm;Pwd=shwon8040!";
@@ -42,7 +65,10 @@ namespace send_mail
             string[] detail = DB_load(DateTime.Now.AddDays(1).ToString("yyyy-MM-dd"));
 
             if (detail.Length == 0)
+            {
+                Console.WriteLine("내일 일정이 없습니다.");
                 return;
+            }
 
             foreach (string str in detail)
             {
@@ -71,15 +97,19 @@ namespace send_mail
             };
 
             client.Send(mail);
+            Console.WriteLine("보내기 성공");
         }
         static void Main(string[] args)
         {
             try
             {
-                send_email("shwon775@naver.com"); // db에 있는 이메일 주소 불러오기 꼭 수정
-                Console.WriteLine("보내기 성공");
+                string email = load_email();
+                if (email != "")
+                    send_email(load_email()); // db에 있는 이메일 주소 불러오기
+                else
+                    Console.WriteLine("이메일이 없습니다.");
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 Console.WriteLine(e);
             }
