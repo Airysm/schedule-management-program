@@ -19,7 +19,7 @@ namespace send_mail
             using (MySqlConnection conn = new MySqlConnection(Conn))
             {
                 conn.Open();
-                MySqlCommand schedule = new MySqlCommand("SELECT idemail FROM email", conn);
+                MySqlCommand schedule = new MySqlCommand("SELECT * FROM email", conn);
                 MySqlDataReader sdr = schedule.ExecuteReader();
 
                 while (sdr.Read())
